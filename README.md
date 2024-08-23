@@ -4,17 +4,6 @@
 
 This project involves creating a graphical user interface (GUI) for the classic hangman game using the PySimpleGUI library. The game logic will be implemented in Python and connected to the GUI, allowing players to enjoy a visually engaging version of hangman.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Game Description](#game-description)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Hangman is a classic word-guessing game where players try to guess a hidden word by suggesting letters. This project aims to create a GUI version of hangman using PySimpleGUI, making the game more interactive and visually appealing.
